@@ -33,7 +33,7 @@ const app = {
         {
             name: "Tự lau nước mắt",
             singer: "Mr.Siro",
-            path: "https://data3.chiasenhac.com/downloads/1760/2/1759550-ca4d6236/128/Tu%20Lau%20Nuoc%20Mat%20-%20Mr%20Siro.mp3",
+            path: "./assets/music/Tulaunuocmat.mp3",
             image:
                 "https://i.scdn.co/image/ab67616d0000b2735e7ded4d3f67a00208f9ba52"
         },
@@ -41,20 +41,20 @@ const app = {
             name: "Dưới những cơn mưa",
             singer: "Mr.Siro",
             path:
-                "https://stream.nixcdn.com/NhacCuaTui931/DuoiNhungConMua-MrSiro-4130894.mp3?st=YDF1DKeTX4rzzVVF5jvvOg&e=1659439391",
+                "./assets/music/Duoinhungconmua.mp3",
             image: "https://i1.sndcdn.com/artworks-000203621416-14ciuz-t500x500.jpg"
         },
         {
             name: "Cho em",
             singer: "Mr.Siro",
-            path: "https://stream.nixcdn.com/NhacCuaTui927/ChoEm-MrSiro-3254801.mp3?st=AzmiDF-Nqizzj0EU6qNCLw&e=1659439392",
+            path: "./assets/music/ChoEm.mp3",
             image:
                 "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/3/0/2130334d4358f2727fbd721274791421.jpg"
         },
         {
             name: "Người yêu tôi lạnh lùng sắt đá",
             singer: "Mr.Siro",
-            path: "https://data.chiasenhac.com/down2/2228/2/2227478-99bdd266/128/Nguoi%20Yeu%20Toi%20Lanh%20Lung%20Sat%20Da%20-%20Mr%20Siro.mp3",
+            path: "./assets/music/Nguoiyeutoilanhlungsatda.mp3",
             image:
                 "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/9/4/4/6944b95014e0aa283befab1bcd5f8cdd.jpg"
         },
@@ -62,14 +62,14 @@ const app = {
             name: "Đã từng vô giá ",
             singer: "Mr.Siro",
             path:
-                "https://data3.chiasenhac.com/downloads/1780/2/1779791-1d785303/128/Da%20Tung%20Vo%20Gia%20-%20Mr%20Siro.mp3",
+                "./assets/music/DaTungVoGia.mp3",
             image:
                 "https://vietnammoi.mediacdn.vn/stores/news_dataimages/vudt/112017/15/02/3339_photo.jpg"
         },
         {
             name: "Nói hết lòng mình",
             singer: "Vương Anh Tú",
-            path: "https://stream.nixcdn.com/NhacCuaTui1001/NoiHetLongMinhCover-VuongAnhTu-6499495.mp3?st=vxjVojAFPI3OVYORDEW2OQ&e=1659499500",
+            path: "./assets/music/NoiHetLongMinh.mp3",
             image:
                 "https://allvpop.com/wp-content/uploads/2021/06/49_300x300-2.jpg"
         }
